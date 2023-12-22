@@ -6,5 +6,5 @@ This is a program that will help you download youtube videos if you don't have y
 
 ## Installation
 
-Go into this repo's releases and download the executable. There is no other things needed ;) 
+Go into this repo's releases and download the executable. There is no other things needed ;). If you want to use the windowless version, I recommend putting it in your PATH.
     
